@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**royrusso/royrusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![Roy's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=royrusso&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark&show_icons=true)](https://github.com/royrusso/github-readme-stats)
