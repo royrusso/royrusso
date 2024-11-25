@@ -16,11 +16,11 @@ My name is Roy Russo. I am a software executive, engineer, and architect with ov
 
 ## My Activity
 
-[![Roy's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=royrusso&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark&show_icons=true)](https://github.com/royrusso/github-readme-stats)
+[![Roy's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=royrusso&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark&show_icons=true)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royrusso&layout=compact&theme=dark&size_weight=0.5&count_weight=.5))]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royrusso&layout=compact&theme=dark&size_weight=0.5&count_weight=.5))](#)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=royrusso&theme=onedark)](https://github.com/royrusso/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=royrusso&theme=onedark)](#)
 
 ## How to Reach Me
 
