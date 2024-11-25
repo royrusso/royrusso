@@ -26,4 +26,3 @@ My name is Roy Russo. I am a software executive, engineer, and architect with ov
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/royrusso)
 [![Website](https://img.shields.io/badge/Website-royrusso.com-1DA1F2?logo=docusaurus&logoColor=white)](https://royrusso.com)
-[![Blog](https://img.shields.io/badge/Blog-royrusso.com/blog-1DA1F2?logo=docusaurus&logoColor=white)](https://royrusso.com/blog)
