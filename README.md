@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-My name is Roy Russo. I am a software executive, engineer, and architect with over 20 years of experience in the software industry. I am a strong advocate for open-source software and have contributed to various projects over the years. I am also a published author and have written several books on software development and architecture.
+My name is Roy Russo. I am a software executive, engineer, and architect with over 20 years of experience in the software industry.
+I am a strong advocate for open-source software and have contributed to [various projects](https://www.royrusso.com/projects/) over the years. I am also a published [author](https://www.manning.com/books/elasticsearch-in-action) and [speaker](https://www.royrusso.com/presentations/).
 
 ## My current stack:
 
